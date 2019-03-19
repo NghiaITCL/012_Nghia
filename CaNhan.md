@@ -5,5 +5,5 @@
 ### Kinh nghiệm làm việc : chưa có
 ### Dự án đã thực hiện : chưa có
 
-[Link Cá Nhân](https://github.com/NghiaITCL/012_Nghia)
-[Địa chỉ Facebook](https://www.facebook.com/trongnghia.nguyen.79069)
+##[Link Cá Nhân](https://github.com/NghiaITCL/012_Nghia)
+##[Địa chỉ Facebook](https://www.facebook.com/trongnghia.nguyen.79069)
